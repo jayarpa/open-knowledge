@@ -48,7 +48,7 @@
     "@types/semver": "^7.5.8",
     "@vitejs/plugin-react": "^6.0.1",
     "babel-plugin-react-compiler": "0.0.0-experimental-a8e64ef-20260402",
-    "electron": "41.2.1",
+    "electron": "42.11.16",
     "electron-builder": "^26.9.0",
     "electron-vite": "^6.0.0-beta.1",
     "typescript": "^5.7.2",
